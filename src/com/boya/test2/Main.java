@@ -3,6 +3,7 @@ package com.boya.test2;
 public class Main {
     public static void main(String[] args) {
         System.out.println("git的初次修改尝试");
+        System.out.println("git的第二次修改");
         RoverCoordinator roverCoordinator = new RoverCoordinator();
         roverCoordinator.setMaxX(5);
         roverCoordinator.setMaxY(5);
